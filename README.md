@@ -1,0 +1,2 @@
+# CSharpDotNetNewIn2223
+This project contains my try-outs of .NET and C# features that were introduced in the years 2022 and 2023. I have not been following the updates to the language and framework keenly over the last couple of years, so this is my humble attempt to fix this knowledge gap. When I am done, I expect to be able to incorporate these newer features into my daily workflow as a .NET software engineer.
